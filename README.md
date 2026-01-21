@@ -1,85 +1,132 @@
-# 🌙 Milo Developer
+<!-- =============================== -->
+<!-- 🌌 FULLSTACK SLEEPY AESTHETIC -->
+<!-- =============================== -->
 
-**FullStack Developer • Backend Enjoyer • Professional Sleeper 😴**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=180&text=Milo%20Developer&fontSize=48&fontColor=ffffff&desc=Fullstack%20Developer%20•%20Sleep%20Enjoyer&descAlignY=65&descSize=18" />
+</p>
 
-> _Code when awake, deploy when sleepy._
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Backend+First+Mindset;Ngoding+Pelan+Asal+Jalan;Hobi+Turu+Tapi+Gas+Deploy" />
+</p>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1400&h=500&q=80" />
+</p>
 
 ---
 
-![Banner](https://images.unsplash.com/photo-1510511450816-30c681e2f3c6?auto=format&fit=crop&w=1400&h=400&q=80)
-
-## 🧠 About Me
+## 🧠 Who Am I
 
 ```js
 const milo = {
-  role: "FullStack Developer",
-  hobby: "Turu 😴",
-  mindset: "Calm & Consistent",
-  principle: "Slow but solid",
-  status: "Ngantuk tapi produktif"
+  role: "Fullstack Developer",
+  focus: "Backend & System Logic",
+  hobby: ["Turu 😴", "Ngopi ☕", "Debug Jam 2 Pagi"],
+  mindset: "Calm, Clean, Consistent",
+  belief: "Code is art when it's simple",
+  status: "Offline tapi otak jalan"
 };
 ```
 
-![About](https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=700&h=300&q=80)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1508780709619-79562169bc64?auto=format&fit=crop&w=800&h=350&q=80" />
+</p>
 
 ---
 
-## 🧩 Tech Stack
+## ⚙️ Tech Arsenal
 
-### Backend
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Backend Core  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark" />
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Frontend Surface  
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+
+### Tools & Infra  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+
+</p>
 
 ---
 
-## 😴 Productivity Meter
+## 😴 Productivity Reality
 
-![Sleep](https://progress-bar.dev/90/?title=Turu&width=400&color=6A5ACD)
-![Code](https://progress-bar.dev/70/?title=Coding&width=400&color=4CAF50)
-
----
-
-## 💼 Projects
-
-### ⚡ Backend API
-![API](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=500&h=250&q=80)
-Fast & clean REST API.
-
-### 🎨 UI Components
-![UI](https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=500&h=250&q=80)
-Reusable React components.
-
-### 🧠 Fullstack App
-![App](https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=500&h=250&q=80)
-Complete MERN application.
+<p align="center">
+  <img src="https://progress-bar.dev/95/?title=Turu&width=500&color=7C3AED" />
+  <br />
+  <img src="https://progress-bar.dev/75/?title=Backend%20Coding&width=500&color=22C55E" />
+  <br />
+  <img src="https://progress-bar.dev/45/?title=Frontend%20Mood&width=500&color=3B82F6" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧩 Selected Works
 
-![Stats](https://github-readme-stats.vercel.app/api?username=miloxource&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=miloxource&theme=tokyonight&hide_border=true)
+<p align="center">
 
----
-
-## 💤 Motto
-
-> **"Kalau bisa dikerjain besok, kenapa sekarang?"**  
-> Tapi tetap kelar.
+### ⚡ API Engine  
+<img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=520&h=260&q=80" />
+<br />
+High-performance REST API, fokus logic & speed.
 
 ---
 
-🌙 *Stay calm, sleep well, code clean.* 🌙
+### 🎨 UI Component Lab  
+<img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&w=520&h=260&q=80" />
+<br />
+Reusable React components, clean & minimal.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Ngantuk%20Tapi%20Produktif&fontSize=28&fontAlignY=70)
+---
+
+### 🧠 Fullstack System  
+<img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=520&h=260&q=80" />
+<br />
+End-to-end MERN app, solid backend > fancy UI.
+
+</p>
+
+---
+
+## 📊 GitHub Presence
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miloxource&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miloxource&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🌙 Life Principle
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/128/4149/4149678.png" width="70" />
+  <br />
+  <strong>"Pelan bukan berarti berhenti."</strong>
+  <br />
+  <em>Turu boleh, tapi commit jalan.</em>
+</p>
+
+---
+
+## ✨ Random Facts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sleep-Expert-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deploy-Tengah_Malam-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bug-Fixer-E11D48?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  🌌 <strong>Stay calm. Stay sleepy. Stay shipping.</strong> 🌌
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:020617&height=140&section=footer&text=Ngantuk%20Tapi%20Berbahaya&fontSize=30&fontAlignY=70&fontColor=ffffff" />
+</p>
